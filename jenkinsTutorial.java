@@ -1,5 +1,3 @@
-package com.pratik;
-
 public class jenkinsTutorial {
 
     public static void main(String[] args) {
